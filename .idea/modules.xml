@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ChatApp/ChatApp.iml" filepath="$PROJECT_DIR$/ChatApp/ChatApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Networking.iml" filepath="$PROJECT_DIR$/.idea/Java-Networking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threading/Threading.iml" filepath="$PROJECT_DIR$/Threading/Threading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reader_writer_thread/reader_writer_thread.iml" filepath="$PROJECT_DIR$/reader_writer_thread/reader_writer_thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple_client_server_using_threading/simple_client_server_using_threading.iml" filepath="$PROJECT_DIR$/simple_client_server_using_threading/simple_client_server_using_threading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simpleclient_server_without_thread/simpleclient_server_without_thread.iml" filepath="$PROJECT_DIR$/simpleclient_server_without_thread/simpleclient_server_without_thread.iml" />
+    </modules>
+  </component>
+</project>
